@@ -14,7 +14,7 @@ class Shoe
    else 
       "old"
   end
-   cobble
+   
 end
    
 end
