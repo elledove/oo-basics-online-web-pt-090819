@@ -9,11 +9,10 @@ class Shoe
    end
    
    
- e
-   
    
    def cobble 
      @condition = "new"
+     
      if @condition == "new"
     puts  "Your shoe is as good as new!"
    else 
